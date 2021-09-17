@@ -1,0 +1,14 @@
+{
+  "name": "bae",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sjoeken",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0-dev.1631880196.88e2622"
+  },
+  "description": ""
+}
